@@ -1,0 +1,4 @@
+'Estrutura do List Comprehensions'
+[numero for numero in range(10)]    
+nome = 'George Alysson Ferreira'
+print([letra.upper() + letra.lower() for letra in nome])
